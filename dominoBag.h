@@ -1,7 +1,6 @@
 #pragma once
 #include <vector>
 #include <random>
-#include <functional>
 #include "dominoTile.h"
 
 class DominoBag {
